@@ -2,6 +2,7 @@
 ## 🎬 Netflix
 
 _Breve análisis sobre datos abiertos de Netflix, basados en visualizaciones y rankings de sus títulos disponibles._
+[Detalles](https://github.com/marcosbutti/Netflix/blob/main/Netflix_countries.ipynb)
 
 * Estas son las películas que más semanas acumularon dentro del Top 10 en Argentina, en el rango de tiempo de los datos presentados.
 
